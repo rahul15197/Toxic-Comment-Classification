@@ -1,4 +1,4 @@
-# Toxic-Comment-Classification
+# Toxic Comment Classification
 ## Toxic Comment Classification using GPU Accelerated LSTM
 
 Toxic Comment Classification is a project built with python that uses Machine Learning to classify a comment into several categories.
